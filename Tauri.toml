@@ -1,0 +1,4 @@
+[build]
+beforeDevCommand = ":"
+devPath = "web/out"
+distDir = "web/out"
